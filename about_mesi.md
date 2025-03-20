@@ -7,7 +7,7 @@ Anything with kardamom, bleh..
 ____
 
 ### Recommendation
-Read one of Simon Stålenhag's books and watch the series called * *Tales from the Loop**.
+Read one of Simon Stålenhag's books and watch the series called  *Tales from the Loop*.
 ____
 
 ### Interesting German word I learned
