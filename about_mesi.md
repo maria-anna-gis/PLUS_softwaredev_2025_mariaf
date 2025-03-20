@@ -3,7 +3,7 @@
 ____
 
 ### Flavour I don‘t like
-Anything with kardamom, bleh..
+Anything with cardamom, bleh..
 ____
 
 ### Recommendation
