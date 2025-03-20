@@ -1,5 +1,5 @@
 ### Favorite quote
-* *"Understand that you own nothing. Everything that surrounds you is temporary, only the kindness in your heart will last forever." - Buddha* *
+*"Understand that you own nothing. Everything that surrounds you is temporary, only the kindness in your heart will last forever." - Buddha*
 ____
 
 ### Flavour I don‘t like
