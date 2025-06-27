@@ -1,0 +1,15 @@
+name: a4
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - requests
+  - folium
+  - jupyter
+  - notebook
+  - pip
+  - pip:
+    - ipykernel
+    - polyline
